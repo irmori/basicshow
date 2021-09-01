@@ -1,3 +1,6 @@
 bread
 wine
 cola
+lastnight
+yesterday
+lonly
